@@ -1,0 +1,27 @@
+{
+    "token": "",
+    "guildId": "1038685411125506118",
+    "onBoardingChannelId": "1038710427246407680",
+    "userCountThreshold": 50,
+    "firstMissionRoleId": "1039058788910645258",
+    "firstMissionChannelId": "1038710802900848650",
+    "firstMissionQuestion": "It\u2019s a narrow dead end here, with mountain walls rising oppressively high in three directions. There is a small mailbox and a plain metal door facing you close to the alley\u2019s end. It\u2019s firmly sealed with a heavy padlock.\r\n\r\nYou wrench your eyes open, your head hurts and you\u2019re staring at the sky. The frozen winter night has scattered dusty snow on your path.\r\n\r\nYou can\u2019t remember anything. There\u2019s nothing but empty air in your memory and the cold is getting closer to your tired bones.\r\n\r\nYou open the mailbox facing you, revealing a small message. \r\n\r\n\u201CWelcome to Owlski\u201D\r\n\r\nA heavy snow brought by the freezing wind suddenly starts and you rush to the door trying some numbers to escape the cold. \r\n\r\nDoor Code: xxxx\r\n",
+    "firstMissionAnswer": "4269",
+    "secondMissionRoleId": "1039059017055600660",
+    "secondMissionChannelId": "1038710978587660338",
+    "secondMissionQuestion": "You enter the dark room and you immediately sense a weirdly warm atmosphere floating in the space. The darkness envelops the room like the thick velvet curtains of a theatre ready to uncover a dream-like promise.\r\n\r\nFrom the wick of a candle sitting near a trapdoor far away in the dark glows a warm and happy light. A silhouette comes out of the trap and stares at you. You can hear wings flapping downstairs and from the silhouette you distinguish only round yellow eyes.\r\n\r\nThe trapdoor suddenly closes and you rush to it before a draught shuts the candle down. \r\n\r\nYou try opening the door, it\u2019s locked again. \r\n\r\nThe noise downstairs disappears and you are left alone.\r\n\r\nA voice calls out: \u201CHEY!\u201D\r\n\r\nYou stop moving and immediately your heart is racing.\r\n\r\nThe voice continues : \u201CTo proceed, amuse us\u201D\r\n\r\nYou feel like running away but your feets won\u2019t move \u201C\u2026uhm\u2026 arg\u2026 how?\u201D\r\n\r\nThe flapping starts again and you can feel thousands of wings waiting for your move.\r\n\r\nThey brutally stop and scream all together \u201CDance ! Dance ! Dance !\u201D\r\n",
+    "thirdMissionChannelId": "1038711045499387944",
+    "fourthMissionChannelId": "1038711092085534812",
+    "fourthMissionRoleId": "1039059164812554282",
+    "fifthMissionChannelId": "1038711123110797382",
+    "fifthMissionRoleId": "1039059231074156554",
+
+    "closeRoleId": "1039059281896546315",
+    "nearRoleId": "1039059344450404382",
+
+    "twitterApiKey": "6XAimBRlwUqnUTlCwaEn6vMcS",
+    "twitterApiSecret": "74wxSrouVb7MUx6kP0oJAaGsI3r6M5xmDDFvTAYWq2RWzgDUiU",
+    "twitterUserId": "1522515100556529666",
+    
+    "twittycordKey": ""
+}
